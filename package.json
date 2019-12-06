@@ -1,0 +1,16 @@
+{
+  "name": "mathware",
+  "version": "1.0.0",
+  "description": "Math library for manipulating matrix and vectors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "matrix",
+    "vector",
+    "algebra"
+  ],
+  "author": "Vince Galaan <vincegalaan@gmail.com>",
+  "license": "ISC"
+}

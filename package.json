@@ -1,6 +1,6 @@
 {
   "name": "mathware",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Math library for manipulating matrix and vectors",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,14 @@
     "vector",
     "algebra"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crashtheuniverse/mathware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crashtheuniverse/mathware/issues"
+  },
   "author": "Vince Galaan <vincegalaan@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/crashtheuniverse/mathware"
 }

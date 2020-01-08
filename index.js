@@ -6,12 +6,6 @@ var vec2 = require('./lib/vec2');
 var vec3 = require('./lib/vec3');
 var vec4 = require('./lib/vec4');
 
-function printMsg() {
-  console.log("This is a message from the demo package");
-}
-
-mw.printMsg = printMsg;
-
 mw.vec2 = vec2;
 mw.vec3 = vec3; 
 mw.vec4 = vec4;

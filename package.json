@@ -1,6 +1,6 @@
 {
   "name": "mathware",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Math library for manipulating matrix and vectors",
   "main": "index.js",
   "scripts": {
